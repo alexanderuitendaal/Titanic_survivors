@@ -1,1 +1,1 @@
-# Titanic_survivors
+# Titanic_survivors kaggle project
